@@ -1,5 +1,5 @@
-# flower-shop-assignment1-PH By nfridoy@gmail.com
-# Live Link https://nfridoy.github.io/flower-shop-assignment1/
+# flower-shop-PH By nfridoy@gmail.com
+# Live Link https://nfridoy.github.io/flower-shop/
 
 ### Full Website SS
 <img src="web_outputs/fullWebsiteSS.png">
