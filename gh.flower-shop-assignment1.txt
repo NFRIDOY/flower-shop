@@ -2,7 +2,7 @@
 echo "# flower-shop" >> README.md
 git init
 git add .
-git commit -m "first commit"
+git commit -m "flower-shop. It's a besic Website."
 git branch -M main
 git remote add origin https://github.com/NFRIDOY/flower-shop.git
 git push -u origin main
